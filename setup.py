@@ -28,6 +28,7 @@ with open('README.rst') as readme_file:
 requirements = [
         'Django',
         'django-log-request-id',
+        'psycopg2',
         'python-dotenv',
 ]
 
