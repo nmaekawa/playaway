@@ -1,0 +1,3 @@
+django
+django-log-request-id
+python-dotenv
